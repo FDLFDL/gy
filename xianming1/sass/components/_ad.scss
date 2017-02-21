@@ -1,0 +1,8 @@
+.ad{
+    @include px2rem(height,214px);
+    @include px2rem(margin-top,10px);
+    @include px2rem(margin-bottom,10px);
+    img{
+        width: 100%;
+    }
+}

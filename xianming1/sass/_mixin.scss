@@ -1,0 +1,34 @@
+// 基准数
+// -------------------------------
+$base-unit:                     100;  // 100份
+$max-container:                 640px;  // 最大视屏宽度,根据设计稿而定
+$base-a:                        $max-container/$base-unit;
+$base-rem:                      $base-a*10;
+
+//宽高转rem
+@mixin px2rem($name,$value){
+    #{$name}: $value / $base-rem * 1rem;
+}
+
+//字体转px
+@mixin px2px($name, $value){
+    #{$name}: $value * 1;
+    [data-dpr="2"] & {
+        #{$name}: $value * 1;
+    }
+    // for mx3
+    [data-dpr="2.5"] & {
+        #{$name}: $value * 2.5;
+    }
+    // for 小米note
+    [data-dpr="2.75"] & {
+        #{$name}: $value * 2.75;
+    }
+    [data-dpr="3"] & {
+        #{$name}: $value * 3;
+    }
+    // for 三星note4
+    [data-dpr="4"] & {
+        #{$name}: $value * 4;
+    }
+}

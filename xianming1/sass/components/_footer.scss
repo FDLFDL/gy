@@ -1,0 +1,22 @@
+.footer-menu{
+    display: flex;
+    background-color: #c6c6c6;
+    >a{
+        @include px2rem(height,80px);
+        @include px2rem(font-size,20px);
+        flex:1;
+        box-shadow: -1px 0 0px #b3b3b3,1px 0 0px #d8d8d8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #6c6c6c;
+        img{
+            @include px2rem(width,60px);
+            @include px2rem(height,60px);
+            @include px2rem(margin-right,10px);
+        }
+        &:last-child{
+            box-shadow:none;
+        }
+    }
+}

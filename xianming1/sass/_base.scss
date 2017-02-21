@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+    width: inherit;
+    height:auto;
+    display: block;
+}
+h1,h2,h3,h4,h5,body{
+    font-family: $font-family;
+}
+input,button,textarea{
+    -webkit-appearance:none;
+    border:none;
+    outline: none;
+}
+a{
+    &:hover{
+        text-decoration: none;
+    }
+}

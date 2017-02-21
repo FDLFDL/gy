@@ -1,0 +1,11 @@
+.cantact-btn{
+    @include px2rem(width,120px);
+    @include px2rem(height,30px);
+    @include px2rem(line-height,30px);
+    @include px2rem(margin-top,20px);
+    @include px2rem(font-size,14px);
+    text-align: center;
+    background-color: $color-primary;
+    color: #fff;
+    display: block;
+}

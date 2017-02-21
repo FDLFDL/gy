@@ -1,0 +1,3868 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "19051",
+"files": {
+	"\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/images\/ad\/ad_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81199,
+		"inputAbbreviatedPath": "\/images\/ad\/ad_01.jpg",
+		"outputAbbreviatedPath": "\/images\/ad\/ad_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/banner\/banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144048,
+		"inputAbbreviatedPath": "\/images\/banner\/banner.jpg",
+		"outputAbbreviatedPath": "\/images\/banner\/banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icon\/icon_msg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3044,
+		"inputAbbreviatedPath": "\/images\/icon\/icon_msg.png",
+		"outputAbbreviatedPath": "\/images\/icon\/icon_msg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icon\/icon_phone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3000,
+		"inputAbbreviatedPath": "\/images\/icon\/icon_phone.png",
+		"outputAbbreviatedPath": "\/images\/icon\/icon_phone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icon\/icon_qq.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2843,
+		"inputAbbreviatedPath": "\/images\/icon\/icon_qq.png",
+		"outputAbbreviatedPath": "\/images\/icon\/icon_qq.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/intro\/intro_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35472,
+		"inputAbbreviatedPath": "\/images\/intro\/intro_01.jpg",
+		"outputAbbreviatedPath": "\/images\/intro\/intro_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7817,
+		"inputAbbreviatedPath": "\/images\/logo\/logo.png",
+		"outputAbbreviatedPath": "\/images\/logo\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50671,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_01.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51569,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_02.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32137,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_03.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37862,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_04.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48006,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_05.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49814,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_06.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44924,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_07.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50714,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_08.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60711,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_09.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54970,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_10.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic\/pic_11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46203,
+		"inputAbbreviatedPath": "\/images\/pic\/pic_11.jpg",
+		"outputAbbreviatedPath": "\/images\/pic\/pic_11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/flexible.debug.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/js\/flexible.debug.js",
+		"outputAbbreviatedPath": "\/js\/min\/flexible.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/js\/flexible_css.debug.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/js\/flexible_css.debug.js",
+		"outputAbbreviatedPath": "\/js\/min\/flexible_css.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/js\/makegrid.debug.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/js\/makegrid.debug.js",
+		"outputAbbreviatedPath": "\/js\/min\/makegrid.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 0
+		},
+	"\/js\/swiper.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/swiper.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/swiper.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/sass\/_base.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/_base.scss",
+		"outputAbbreviatedPath": "\/css\/_base.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/_mixin.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/_mixin.scss",
+		"outputAbbreviatedPath": "\/css\/_mixin.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/_variables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/_variables.scss",
+		"outputAbbreviatedPath": "\/css\/_variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/app.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/app.scss",
+		"outputAbbreviatedPath": "\/css\/app.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/components\/_ad.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/components\/_ad.scss",
+		"outputAbbreviatedPath": "\/sass\/css\/_ad.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/components\/_btn.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/components\/_btn.scss",
+		"outputAbbreviatedPath": "\/sass\/css\/_btn.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/components\/_contact.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/components\/_contact.scss",
+		"outputAbbreviatedPath": "\/sass\/css\/_contact.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/components\/_footer.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/components\/_footer.scss",
+		"outputAbbreviatedPath": "\/sass\/css\/_footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/components\/_header.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/components\/_header.scss",
+		"outputAbbreviatedPath": "\/sass\/css\/_header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/components\/_list-item.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/components\/_list-item.scss",
+		"outputAbbreviatedPath": "\/sass\/css\/_list-item.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/components\/_menu.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/components\/_menu.scss",
+		"outputAbbreviatedPath": "\/sass\/css\/_menu.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/components\/_more.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/components\/_more.scss",
+		"outputAbbreviatedPath": "\/sass\/css\/_more.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/components\/_news.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/components\/_news.scss",
+		"outputAbbreviatedPath": "\/sass\/css\/_news.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/components\/_swiper.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/components\/_swiper.scss",
+		"outputAbbreviatedPath": "\/sass\/css\/_swiper.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/hooks\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/hooks\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/scaleApp\/hooks\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-hdpi\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5249,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-hdpi\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-hdpi\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-hdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 216014,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-hdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-hdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-ldpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41538,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-ldpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-ldpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-mdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90490,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-mdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-mdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-xhdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 488469,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-xhdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-land-xhdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-ldpi\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2239,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-ldpi\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-ldpi\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-mdpi\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3236,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-mdpi\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-mdpi\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-hdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 220338,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-hdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-hdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-ldpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41064,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-ldpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-ldpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-mdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92429,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-mdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-mdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-xhdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 501006,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-xhdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-port-xhdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-xhdpi\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6814,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-xhdpi\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable-xhdpi\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/ant-build\/res\/drawable\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6814,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/ant-build\/res\/drawable\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/cordova.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/cordova.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/min\/cordova-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/cordova_plugins.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/cordova_plugins.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/min\/cordova_plugins-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/ad\/ad_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81199,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/ad\/ad_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/ad\/ad_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/banner\/banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144048,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/banner\/banner.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/banner\/banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/icon\/icon_msg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3044,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/icon\/icon_msg.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/icon\/icon_msg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/icon\/icon_phone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3000,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/icon\/icon_phone.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/icon\/icon_phone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/icon\/icon_qq.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2843,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/icon\/icon_qq.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/icon\/icon_qq.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/intro\/intro_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35472,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/intro\/intro_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/intro\/intro_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/logo\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7817,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/logo\/logo.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/logo\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50671,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51569,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_02.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32137,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_03.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37862,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_04.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48006,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_05.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49814,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_06.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44924,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_07.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50714,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_08.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60711,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_09.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54970,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_10.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46203,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_11.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/images\/pic\/pic_11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/js\/flexible.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/js\/flexible.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/js\/min\/flexible.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/js\/flexible_css.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/js\/flexible_css.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/js\/min\/flexible_css.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/js\/makegrid.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/js\/makegrid.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/js\/min\/makegrid.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/js\/swiper.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/js\/swiper.min.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/js\/min\/swiper.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/_base.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/_base.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/css\/_base.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/_mixin.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/_mixin.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/css\/_mixin.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/_variables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/_variables.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/css\/_variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/app.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/app.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/css\/app.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_ad.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_ad.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/css\/_ad.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_btn.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_btn.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/css\/_btn.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_contact.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_contact.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/css\/_contact.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_footer.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_footer.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/css\/_footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_header.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_header.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/css\/_header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_list-item.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_list-item.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/css\/_list-item.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_menu.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_menu.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/css\/_menu.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_more.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_more.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/css\/_more.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_news.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_news.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/css\/_news.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_swiper.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/components\/_swiper.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/assets\/www\/sass\/css\/_swiper.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/platforms\/android\/cordova\/lib\/android_sdk_version.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/android_sdk_version.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/min\/android_sdk_version-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/cordova\/lib\/appinfo.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/appinfo.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/min\/appinfo-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/cordova\/lib\/build.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/build.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/min\/build-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/cordova\/lib\/check_reqs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/check_reqs.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/min\/check_reqs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/cordova\/lib\/device.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/device.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/min\/device-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/cordova\/lib\/emulator.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/emulator.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/min\/emulator-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/cordova\/lib\/exec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/exec.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/min\/exec-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/cordova\/lib\/log.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/log.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/min\/log-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/cordova\/lib\/run.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/run.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/min\/run-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/cordova\/lib\/spawn.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/spawn.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/cordova\/lib\/min\/spawn-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/platform_www\/cordova.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/platform_www\/cordova.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/platform_www\/min\/cordova-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-hdpi\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6080,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-hdpi\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-hdpi\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-land-hdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 218302,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-land-hdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-land-hdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-land-ldpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42616,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-land-ldpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-land-ldpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-land-mdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92347,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-land-mdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-land-mdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-land-xhdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 489604,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-land-xhdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-land-xhdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-ldpi\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3096,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-ldpi\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-ldpi\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-mdpi\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4090,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-mdpi\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-mdpi\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-port-hdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222148,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-port-hdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-port-hdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-port-ldpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42034,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-port-ldpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-port-ldpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-port-mdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90555,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-port-mdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-port-mdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-port-xhdpi\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 504508,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-port-xhdpi\/screen.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-port-xhdpi\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable-xhdpi\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7685,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-xhdpi\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable-xhdpi\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/android\/res\/drawable\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7685,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/android\/res\/drawable\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-568h@2x~iphone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61990,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-568h@2x~iphone.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-568h@2x~iphone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-667h.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52100,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-667h.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-667h.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-736h.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62285,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-736h.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-736h.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Landscape-736h.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63597,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Landscape-736h.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Landscape-736h.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Landscape@2x~ipad.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161722,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Landscape@2x~ipad.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Landscape@2x~ipad.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Landscape~ipad.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76512,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Landscape~ipad.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Landscape~ipad.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Portrait@2x~ipad.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154923,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Portrait@2x~ipad.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Portrait@2x~ipad.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Portrait~ipad.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74890,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Portrait~ipad.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default-Portrait~ipad.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default@2x~iphone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55319,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default@2x~iphone.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default@2x~iphone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default~iphone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20021,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default~iphone.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/Default~iphone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-40.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4450,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-40.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-40.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-40@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8883,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-40@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-40@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-50.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5557,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-50.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-50.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-50@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11331,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-50@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-50@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-60.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6838,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-60.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-60.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-60@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14152,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-60@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-60@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-60@3x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33390,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-60@3x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-60@3x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-72.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8045,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-72.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-72.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-72@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17926,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-72@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-72@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-76.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8463,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-76.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-76.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-76@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16629,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-76@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-76@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3349,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-small.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-small@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6585,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-small@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon-small@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5977,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13012,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/icon@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/cordova.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/cordova.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/min\/cordova-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/cordova_plugins.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/cordova_plugins.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/min\/cordova_plugins-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/ad\/ad_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81199,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/ad\/ad_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/ad\/ad_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/banner\/banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144048,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/banner\/banner.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/banner\/banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/icon\/icon_msg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3044,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/icon\/icon_msg.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/icon\/icon_msg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/icon\/icon_phone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3000,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/icon\/icon_phone.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/icon\/icon_phone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/icon\/icon_qq.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2843,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/icon\/icon_qq.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/icon\/icon_qq.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/intro\/intro_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35472,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/intro\/intro_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/intro\/intro_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/logo\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7817,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/logo\/logo.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/logo\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50671,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51569,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_02.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32137,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_03.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37862,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_04.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48006,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_05.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49814,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_06.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44924,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_07.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50714,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_08.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60711,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_09.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54970,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_10.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46203,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_11.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/images\/pic\/pic_11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/flexible.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/flexible.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/min\/flexible.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/flexible_css.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/flexible_css.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/min\/flexible_css.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/makegrid.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/makegrid.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/min\/makegrid.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/swiper.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/swiper.min.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/build\/device\/HelloCordova.app\/www\/js\/min\/swiper.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/CordovaLib\/cordova.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/CordovaLib\/cordova.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/CordovaLib\/min\/cordova-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-40.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4082,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-40.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-40.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-40@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7411,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-40@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-40@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-50.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4874,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-50.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-50.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-50@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9611,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-50@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-50@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-60.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5811,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-60.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-60.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-60@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11924,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-60@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-60@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-60@3x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30083,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-60@3x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-60@3x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-72.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4944,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-72.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-72.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-72@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11706,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-72@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-72@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-76.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7025,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-76.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-76.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-76@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15262,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-76@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-76@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3294,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-small.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-small@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5608,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-small@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon-small@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3902,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7869,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon@2x.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/icons\/icon@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-568h@2x~iphone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34225,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-568h@2x~iphone.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-568h@2x~iphone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-667h.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57532,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-667h.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-667h.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-736h.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80929,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-736h.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-736h.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Landscape-736h.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79491,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Landscape-736h.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Landscape-736h.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Landscape@2x~ipad.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212234,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Landscape@2x~ipad.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Landscape@2x~ipad.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Landscape~ipad.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91810,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Landscape~ipad.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Landscape~ipad.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Portrait@2x~ipad.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212860,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Portrait@2x~ipad.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Portrait@2x~ipad.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Portrait~ipad.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91713,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Portrait~ipad.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default-Portrait~ipad.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default@2x~iphone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29475,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default@2x~iphone.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default@2x~iphone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default~iphone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10394,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default~iphone.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/HelloCordova\/Resources\/splash\/Default~iphone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/platform_www\/cordova.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/platform_www\/cordova.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/platform_www\/min\/cordova-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/www\/cordova.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/cordova.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/min\/cordova-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/www\/cordova_plugins.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/cordova_plugins.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/min\/cordova_plugins-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/www\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/ad\/ad_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81199,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/ad\/ad_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/ad\/ad_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/banner\/banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144048,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/banner\/banner.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/banner\/banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/icon\/icon_msg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3044,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/icon\/icon_msg.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/icon\/icon_msg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/icon\/icon_phone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3000,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/icon\/icon_phone.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/icon\/icon_phone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/icon\/icon_qq.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2843,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/icon\/icon_qq.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/icon\/icon_qq.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/intro\/intro_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35472,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/intro\/intro_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/intro\/intro_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/logo\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7817,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/logo\/logo.png",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/logo\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50671,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51569,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_02.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32137,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_03.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37862,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_04.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48006,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_05.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49814,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_06.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44924,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_07.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50714,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_08.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60711,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_09.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54970,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_10.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46203,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_11.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/images\/pic\/pic_11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/scaleApp\/platforms\/ios\/www\/js\/flexible.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/js\/flexible.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/js\/min\/flexible.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/www\/js\/flexible_css.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/js\/flexible_css.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/js\/min\/flexible_css.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/www\/js\/makegrid.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/js\/makegrid.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/js\/min\/makegrid.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/platforms\/ios\/www\/js\/swiper.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/js\/swiper.min.js",
+		"outputAbbreviatedPath": "\/scaleApp\/platforms\/ios\/www\/js\/min\/swiper.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/plugins\/android.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/plugins\/android.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/scaleApp\/plugins\/android-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/scaleApp\/plugins\/ios.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/plugins\/ios.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/scaleApp\/plugins\/ios-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/scaleApp\/www\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/scaleApp\/www\/images\/ad\/ad_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81199,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/ad\/ad_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/ad\/ad_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/banner\/banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144048,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/banner\/banner.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/banner\/banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/icon\/icon_msg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3044,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/icon\/icon_msg.png",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/icon\/icon_msg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/icon\/icon_phone.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3000,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/icon\/icon_phone.png",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/icon\/icon_phone.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/icon\/icon_qq.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2843,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/icon\/icon_qq.png",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/icon\/icon_qq.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/intro\/intro_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35472,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/intro\/intro_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/intro\/intro_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/logo\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7817,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/logo\/logo.png",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/logo\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50671,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_01.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51569,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_02.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32137,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_03.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37862,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_04.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_05.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48006,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_05.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_05.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49814,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_06.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_07.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44924,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_07.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_07.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_08.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50714,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_08.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_09.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60711,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_09.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_09.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54970,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_10.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/images\/pic\/pic_11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46203,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_11.jpg",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/images\/pic\/pic_11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/scaleApp\/www\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/scaleApp\/www\/js\/flexible.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/js\/flexible.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/js\/min\/flexible.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/www\/js\/flexible_css.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/js\/flexible_css.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/js\/min\/flexible_css.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/www\/js\/makegrid.debug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/js\/makegrid.debug.js",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/js\/min\/makegrid.debug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/www\/js\/swiper.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/js\/swiper.min.js",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/js\/min\/swiper.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/scaleApp\/www\/sass\/_base.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/_base.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/css\/_base.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/_mixin.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/_mixin.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/css\/_mixin.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/_variables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/_variables.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/css\/_variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/app.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/app.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/css\/app.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/components\/_ad.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/components\/_ad.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/sass\/css\/_ad.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/components\/_btn.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/components\/_btn.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/sass\/css\/_btn.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/components\/_contact.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/components\/_contact.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/sass\/css\/_contact.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/components\/_footer.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/components\/_footer.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/sass\/css\/_footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/components\/_header.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/components\/_header.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/sass\/css\/_header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/components\/_list-item.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/components\/_list-item.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/sass\/css\/_list-item.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/components\/_menu.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/components\/_menu.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/sass\/css\/_menu.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/components\/_more.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/components\/_more.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/sass\/css\/_more.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/components\/_news.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/components\/_news.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/sass\/css\/_news.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scaleApp\/www\/sass\/components\/_swiper.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scaleApp\/www\/sass\/components\/_swiper.scss",
+		"outputAbbreviatedPath": "\/scaleApp\/www\/sass\/css\/_swiper.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "王飞",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "王飞",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "harddrive_brown"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
+	"markdownEnableFootnotes": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 3,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputFormat": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptPreserveConstEnums": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

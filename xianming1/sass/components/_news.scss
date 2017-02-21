@@ -1,0 +1,20 @@
+.news{
+    ul{
+        @include px2rem(margin-left,15px);
+        @include px2rem(margin-right,15px);
+        @include px2rem(margin-bottom,15px);
+    }
+    li{
+        border-bottom: 1px dashed $color-border;
+    }
+    a{
+        @include px2rem(font-size,14px);
+        @include px2rem(height,30px);
+        @include px2rem(line-height,30px);
+        display: block;
+        color: $color-text;
+        &:hover{
+            color: $color-primary;
+        }
+    }
+}

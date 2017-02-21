@@ -1,0 +1,11 @@
+.header{
+    background-color: $color-primary;
+    @include px2rem(height,90px);
+    .logo{
+        @include px2rem(width,230px);
+        @include px2rem(height,70px);
+        position: relative;
+        @include px2rem(top,10px);
+        @include px2rem(left,30px);
+    }
+}

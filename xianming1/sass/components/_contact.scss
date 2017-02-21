@@ -1,0 +1,106 @@
+.contact{
+    @include px2rem(height,216px);
+    @include px2rem(padding-bottom,70px);
+    background-color: $color-primary;
+    position: relative;
+    .copyright{
+        @include px2rem(font-size,14px);
+        @include px2rem(height,70px);
+        position: absolute;
+        bottom: 0;
+        background-color: rgba(0,0,0,.5);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        flex-direction: column;
+        width: 100%;
+        line-height: 1.5em;
+    }
+    >h2{
+        @include px2rem(font-size,26px);
+        @include px2rem(margin-top,10px);
+        @include px2rem(padding-top,5px);
+        @include px2rem(padding-bottom,5px);
+        text-align: center;
+        color: #fff;
+        border-bottom: 1px solid #fff;
+        &:after{
+            @include px2rem(font-size,10px);
+            @include px2rem(margin-top,5px);
+            @include px2rem(margin-bottom,5px);
+            display: block;
+            content:attr(data-lang-en);
+        }
+    }
+    >form{
+        @include px2rem(margin-top,10px);
+        @include px2rem(margin-left,30px);
+        @include px2rem(margin-right,30px);
+        color: #fff;
+        >div{
+            @include px2rem(margin-bottom,10px);
+        }
+        input{
+            @include px2rem(height,20px);
+            @include px2rem(font-size,14px);
+            @include px2rem(padding-top,5px);
+            @include px2rem(padding-bottom,5px);
+            @include px2rem(padding-left,5px);
+            @include px2rem(padding-right,5px);
+            border-radius: 0;
+        }
+    }
+
+    .base-info{
+        display: flex;
+        label{
+            flex: 1;
+            display: flex;
+            align-items: center;
+        }
+        input{
+            flex: 1;
+        }
+    }
+
+    .base-info>label:first-child{
+        @include px2rem(margin-right,30px);
+    }
+    label>span{
+        @include px2rem(margin-right,10px);
+        @include px2rem(font-size,14px);
+    }
+    .reply-container{
+        position: relative;
+        display: flex;
+        >*{
+            @include px2rem(margin-right,10px);
+            display: block;
+        }
+        .reply-title{
+            @include px2rem(margin-right,10px);
+            @include px2rem(font-size,14px);
+        }
+        textarea{
+            @include px2rem(width,356px);
+            @include px2rem(height,82px);
+            @include px2rem(font-size,14px);
+            @include px2rem(padding-top,5px);
+            @include px2rem(padding-bottom,5px);
+            @include px2rem(padding-left,5px);
+            @include px2rem(padding-right,5px);
+            border-radius: 0;
+            box-sizing: border-box;
+            flex:1;
+        }
+        button{
+            @include px2rem(width,110px);
+            @include px2rem(height,82px);
+            @include px2rem(font-size,14px);
+            background-color: #dcef00;
+            color: red;
+            margin-right: 0;
+        }
+    }
+}

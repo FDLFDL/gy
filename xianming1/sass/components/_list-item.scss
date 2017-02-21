@@ -1,0 +1,117 @@
+.list-item-title{
+    text-align: center;
+    border-bottom: 1px solid #a9a9a9;
+    h2{
+        @include px2rem(font-size,26px);
+        @include px2rem(margin-top,10px);
+        color: $color-primary;
+        display: inline-block;
+        border-bottom: 2px solid $color-primary;
+        padding: 0 5px;
+        &:after{
+            @include px2rem(font-size,10px);
+            @include px2rem(margin-top,5px);
+            @include px2rem(margin-bottom,5px);
+            display: block;
+            content:attr(data-lang-en);
+            color: $color-text;
+        }
+    }
+}
+
+// 图片列表
+// -----------------------
+.list-item-pic{
+    @include px2rem(margin-top,10px);
+    @include px2rem(margin-left,10px);
+    overflow: hidden;
+    .item{
+        @include px2rem(margin-right,10px);
+        @include px2rem(margin-bottom,15px);
+        float: left;
+        .pic{
+            @include px2rem(width,200px);
+            @include px2rem(height,302px);
+        }
+        .title{
+            color: $color-text;
+            @include px2rem(margin-left,10px);
+            @include px2rem(margin-right,10px);
+            @include px2rem(margin-top,15px);
+            @include px2rem(padding-bottom,2px);
+            border: 1px solid $color-border;
+            text-align: center;
+        }
+        hgroup{
+            display: inline-block;
+            position: relative;
+            @include px2rem(margin-top,-15px);
+        }
+        h3{
+            color: $color-pic-title;
+            display: inline-block;
+            @include px2rem(font-size,20px);
+            @include px2rem(padding-left,10px);
+            @include px2rem(padding-right,10px);
+            background-color: #fff;
+        }
+        h4{
+            @include px2rem(font-size,12px);
+        }
+        .wait{
+            background-color: $color-wait;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            color: #fff;
+            @include px2rem(font-size,28px);
+        }
+        .single-line{
+            border:none;
+            display: flex;
+            justify-content: center;
+            border-top:1px solid $color-border;
+            h3{
+                @include px2rem(margin-top,-14px);
+            }
+        }
+    }
+}
+
+// 图文列表
+// -----------------------
+.list-item-intro{
+    @include px2rem(margin-top,10px);
+    @include px2rem(margin-left,10px);
+    .item{
+        @include px2rem(margin-bottom,10px);
+        @include px2rem(height,302px);
+        overflow: hidden;
+    }
+    .pic{
+        @include px2rem(width,200px);
+        @include px2rem(margin-right,15px);
+        float: left;
+        height: inherit;
+    }
+    .intro{
+        float: left;
+        @include px2rem(font-size,12px);
+        @include px2rem(width,360px);
+        color: $color-text;
+        line-height: 1.5em;
+        h3{
+            @include px2rem(font-size,20px);
+            @include px2rem(margin-top,15px);
+            @include px2rem(margin-bottom,15px);
+            @include px2rem(padding-bottom,15px);
+            color: $color-title-h3;
+            border-bottom: 1px solid $color-border;
+            font-weight: normal;
+            span{
+                @include px2rem(margin-left,10px);
+            }
+        }
+    }
+}
